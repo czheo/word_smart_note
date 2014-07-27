@@ -1,5 +1,5 @@
-# ALL or NOTHING
-## ALL: a lot
+# All or Nothing
+## All: a lot
 prodigious: enormous or extrordinary
 > To fill the Grand Canyon with ping pong balls would be a prodigious undertaking.
 
@@ -39,3 +39,30 @@ Our program on this tour will be devoted mostly to Mozart, who wrote hundreds of
 He was one of the most prolific of all great classical composers.
 Like Mozart, our 9 year old piano soloist is a world renowned prodigy.
 She is very gifted if not a little preoccupied by Saturday morning cartoons.
+
+## Nothing: not a lot
+paucity: scarcity, insufficiency
+> The paucity of fresh vegetables at the market forced us to buy frozen ones.
+
+dearth: lack, scarcity
+> - When there is a dearth of food, people will go hungry.
+> - There is no dearth of comedy at the clown convention.
+
+nominal: insignificant, small, being named as a mere formality
+> The cost was nominal in comparison to what we received.
+
+frugal: economical, penny-pinching
+> Hanna's frugality annoyed her husband who love nothing more than to spend money.
+> We were as frugal as we could be, but we still ended up several thousand dollars in debt.
+
+parsimonious: stinginess
+> The old widow who was so parsimonious she hung teabags out to dry on her clothesline so she'd be able to use them again.
+
+attrition: gradual loss, natural decrease in numbers and size
+> Single-sex collages, the few that are left, have the highest rates of attrition among most colleges in America. 
+> Many speculate that the students leave to finish their education at schools with students of both sexes.
+
+minuscule: very tiny
+> Sheila's skirt was so minuscule that it could have passed for belt.
+
+
