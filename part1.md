@@ -65,4 +65,32 @@ attrition: gradual loss, natural decrease in numbers and size
 minuscule: very tiny
 > Sheila's skirt was so minuscule that it could have passed for belt.
 
+#### mnemonic
+- parsely -> parsimonious
 
+# I love you & I hate you
+## I love you
+revere: respect highly, honor
+> Picasso is revered as one of the greatest painters of the mordem era.
+
+narcissism: narcissistic (In Greek mythology, Narcissus was a boy who fell in love with his own reflection)
+
+predilection: a natural preference for something
+> Joe's predilection for saturated fats has added roughly a foot to his waistline in the last twenty years.
+
+confluence: flowing together
+> A confluence of many factors, good food, nice decor and a swinging band made the party a huge success.
+
+affinity: attraction, sympathy, kinship, simularity
+> Magnets and iron have affinity for each other. 
+
+alacrity: cheerful eagerness, briskness or readyness to respond
+> David could hardly wait his parents to leave. He carried his luggage out to the car with great alacrity.
+
+adulation: wild, excessive admiration; flattery
+> The rock start soon grew tired of the adulation of his fans.
+
+prudent: having foresight, being careful or wise
+> Joe is a prudent money manager. Joe is the epitome of prudence.
+
+## I hate you
