@@ -1,4 +1,4 @@
-dsaf# All or Nothing
+# All or Nothing
 ## All: a lot
 prodigious: enormous or extrordinary
 > To fill the Grand Canyon with ping pong balls would be a prodigious undertaking.
@@ -72,3 +72,32 @@ penury: poverty
 Our income here at the **convent** is so minimal. We are forced to live a life of **penury**. But even though we must watch every penny and be frugal almost **to a fault**, there is still room for charity. Just because we are poor doesn't mean we have to be **parsimonious**. Where do we get our money, you ask. Well, donations of course. And we do ask those who wish to become a part of our convent for a small initiation fee. Just a **nominal** payment really. So small you might even call it **minuscule**. Actually I shouldn't have even mentioned it, since we almost never get a chance to collect it anymore. You see not only have our ranks grown smaller due to attrition, but there has also been **a noticable dearth** of newcomers in recent years. Oh well, I suppose young people today just aren't tough enough for a life lacking ordinary comforts and a **paucity** of even the simplest material items, not to mention **luxuries**.
 
 ![all or nothing](img/all_or_nothing.png)
+#### mnemonic
+- parsely -> parsimonious
+
+# I love you & I hate you
+## I love you
+revere: respect highly, honor
+> Picasso is revered as one of the greatest painters of the mordem era.
+
+narcissism: narcissistic (In Greek mythology, Narcissus was a boy who fell in love with his own reflection)
+
+predilection: a natural preference for something
+> Joe's predilection for saturated fats has added roughly a foot to his waistline in the last twenty years.
+
+confluence: flowing together
+> A confluence of many factors, good food, nice decor and a swinging band made the party a huge success.
+
+affinity: attraction, sympathy, kinship, simularity
+> Magnets and iron have affinity for each other. 
+
+alacrity: cheerful eagerness, briskness or readyness to respond
+> David could hardly wait his parents to leave. He carried his luggage out to the car with great alacrity.
+
+adulation: wild, excessive admiration; flattery
+> The rock start soon grew tired of the adulation of his fans.
+
+prudent: having foresight, being careful or wise
+> Joe is a prudent money manager. Joe is the epitome of prudence.
+
+## I hate you
