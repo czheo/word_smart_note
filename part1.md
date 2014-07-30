@@ -1,4 +1,4 @@
-# All or Nothing
+dsaf# All or Nothing
 ## All: a lot
 prodigious: enormous or extrordinary
 > To fill the Grand Canyon with ping pong balls would be a prodigious undertaking.
@@ -63,6 +63,12 @@ attrition: gradual loss, natural decrease in numbers and size
 > Many speculate that the students leave to finish their education at schools with students of both sexes.
 
 minuscule: very tiny
-> Sheila's skirt was so minuscule that it could have passed for belt.
+> - Sheila's skirt was so minuscule that it could have passed for belt.
+> - Arnold knew his father was exaggerating when he told him it would only take a minuscule effort to clean up his room.
 
+penury: poverty
+> Having blown his lottery winnings on plastic kazoos, Mark was reduced to penury. He'd better get a job.
 
+Our income here at the **convent** is so minimal. We are forced to live a life of **penury**. But even though we must watch every penny and be frugal almost **to a fault**, there is still room for charity. Just because we are poor doesn't mean we have to be **parsimonious**. Where do we get our money, you ask. Well, donations of course. And we do ask those who wish to become a part of our convent for a small initiation fee. Just a **nominal** payment really. So small you might even call it **minuscule**. Actually I shouldn't have even mentioned it, since we almost never get a chance to collect it anymore. You see not only have our ranks grown smaller due to attrition, but there has also been **a noticable dearth** of newcomers in recent years. Oh well, I suppose young people today just aren't tough enough for a life lacking ordinary comforts and a **paucity** of even the simplest material items, not to mention **luxuries**.
+
+![all or nothing](img/all_or_nothing.png)
